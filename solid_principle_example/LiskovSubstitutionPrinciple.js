@@ -338,13 +338,5 @@ class UpiPaymentAdapter extends Payment {
 ## Final recommendation
 - If you want instances of a subclass to be usable where the parent is expected, ensure the subclass implements or preserves the parent’s public contract exactly (or in a compatible way). If the subclass cannot or should not implement that contract, avoid inheritance and use composition/adapter instead.
 
----
-
-If you want, I can:
-- Produce a compact cheat-sheet you can print or pin,
-- Convert these notes into a README or Markdown file in your repository,
-- Or review other classes in your repo for LSP compliance and produce fixes. Which would you like next?
-
  
-
  */
