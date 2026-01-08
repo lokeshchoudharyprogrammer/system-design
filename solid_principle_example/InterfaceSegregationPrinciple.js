@@ -4,7 +4,7 @@
 
 // ✅ GOOD EXAMPLE: Following ISP
 // ==========================================
-// Here, we segregate the PaymentMethod interface into smaller, more specific interfaces.
+// Here, we segregate the Course interface into smaller, more specific interfaces.
 // Each class implements only the methods it needs.
 // This way, we avoid forcing clients to depend on methods they do not use.
 
