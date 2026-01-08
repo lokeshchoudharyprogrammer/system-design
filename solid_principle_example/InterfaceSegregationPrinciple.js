@@ -9,14 +9,6 @@
 // This way, we avoid forcing clients to depend on methods they do not use.
 
 
-// Bad Example: Violating ISP
-// ==========================================
-// In this example, we have a single PaymentMethod interface that includes methods for all payment types.
-// This violates ISP because classes like CreditCardPayment and PayPalPayment are forced to implement methods they do not use.
-// For example, CreditCardPayment is only interested in the 'pay' method, not the 'bankTransfer' method.
-
-
-
 
 class Course {
     constructor(title, duration) {
