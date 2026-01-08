@@ -144,7 +144,7 @@ class Payment {
 
 class BrokenPayment extends Payment {
     upiPayment(amount) {
-        return "UPI payment failed";
+        return `"UPI payment processed ₹${amount}`;
     }
 }
 
