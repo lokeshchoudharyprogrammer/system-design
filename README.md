@@ -1,9 +1,4 @@
-Love this question 😄🔥
-If you master LLD vocabulary, your interviews become 10x smoother.
 
-I’ll give you a **clean, structured vocabulary list** — short, powerful, and interview-ready.
-
----
 
 # 🔹 1️⃣ Core OOP Concepts (Foundation)
 
