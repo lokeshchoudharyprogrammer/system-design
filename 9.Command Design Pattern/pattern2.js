@@ -45,7 +45,7 @@ const fanCalling = new Fan();
 const fanOn = new FanOnCommand(fanCalling);
 const fanOff = new FanOffCommand(fanCalling);
 
-const remote=new RemoteControl();
+const remote = new RemoteControl();
 remote.setCommand(fanOn);
 remote.inVoke();
 
